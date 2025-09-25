@@ -22,4 +22,4 @@ module Testbench1(
     #10 $finish;
     end
 endmodule
-![Testbench](NotgateG.png)
+![Testbench](https://github.com/ShreerajPatil/Verilog-logic-gates-using-all-methods/blob/main/NotgateG.png)
