@@ -27,4 +27,4 @@ module Testbench1(
     end
 endmodule
 ```
-![Testbench]Notgate.png)
+![Testbench](NotgateG.png)
