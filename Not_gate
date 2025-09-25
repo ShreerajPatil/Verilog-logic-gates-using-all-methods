@@ -22,4 +22,4 @@ module Testbench1(
     #10 $finish;
     end
 endmodule
-![Testbench](Not-gate-g.png)
+![Testbench](NotgateG.png)
