@@ -1,5 +1,5 @@
 **EX-NOR Gate**
-![Schematic](Exnorsche.png)
+![Schematic](./Images/Exnorsche.png)
 
 **Structural (Gate-Level) Modeling**
 
@@ -91,4 +91,4 @@ endmodule
 
 ```
 
-![Testbench](ExnorT.png)
+![Testbench](./Images/ExnorT.png)
