@@ -1,5 +1,5 @@
 **AND Gate**
-![Schematic](Andsche.png)
+![Schematic](./Images/Andsche.png)
 
 **Structural (Gate-Level) Modeling**
 
@@ -91,4 +91,4 @@ endmodule
 
 ```
 
-![Testbench](AndT.png)
+![Testbench](./Images/AndT.png)
