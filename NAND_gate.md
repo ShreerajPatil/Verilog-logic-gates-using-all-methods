@@ -1,5 +1,5 @@
 **NAND Gate**
-![Schematic](Nandsche.png)
+![Schematic](./Images/Nandsche.png)
 
 **Structural (Gate-Level) Modeling**
 
@@ -91,4 +91,4 @@ endmodule
 
 ```
 
-![Testbench](NandT.png)
+![Testbench](./Images/NandT.png)
