@@ -1,5 +1,5 @@
 **OR Gate**
-![Schematic](Orsche.png)
+![Schematic](./Images/Orsche.png)
 
 **Structural (Gate-Level) Modeling**
 
@@ -91,4 +91,4 @@ endmodule
 
 ```
 
-![Testbench](OrT.png)
+![Testbench](./Images/OrT.png)
