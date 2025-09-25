@@ -1,4 +1,4 @@
-**Nand Gate**
+**NAND Gate**
 ![Schematic](Nandsche.png)
 
 **Structural (Gate-Level) Modeling**
