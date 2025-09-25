@@ -16,7 +16,7 @@ module Testbench1(
     );
     reg in;
     wire out;
-    Code uut(in,out);
+    Code uut(in,out); 
     initial 
     begin 
     
@@ -87,5 +87,5 @@ module Testbench1(
     end
 endmodule
 ```
-
+![Schematic](Notsche.png)
 ![Testbench](NotgateG.png)
