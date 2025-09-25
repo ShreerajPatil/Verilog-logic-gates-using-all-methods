@@ -1,3 +1,6 @@
+**And Gate**
+![Schematic](Andsche.png)
+
 **Structural (Gate-Level) Modeling**
 
 **Code** 
@@ -87,5 +90,5 @@ module Testbench(
 endmodule
 
 ```
-![Schematic](Andsche.png)
+
 ![Testbench](AndT.png)
