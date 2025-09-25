@@ -1,4 +1,5 @@
 Structural (Gate-Level) Modeling
+
 Code
 module Code(
 input wire in,
@@ -22,4 +23,4 @@ module Testbench1(
     #10 $finish;
     end
 endmodule
-![Testbench](https://github.com/ShreerajPatil/Verilog-logic-gates-using-all-methods/blob/main/NotgateG.png)
+![Testbench]NotgateG.png)
