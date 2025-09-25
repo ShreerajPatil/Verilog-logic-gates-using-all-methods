@@ -1,5 +1,5 @@
 **NOR Gate**
-![Schematic](Norsche.png)
+![Schematic](./Images/Norsche.png)
 
 **Structural (Gate-Level) Modeling**
 
@@ -91,4 +91,4 @@ endmodule
 
 ```
 
-![Testbench](NorT.png)
+![Testbench](./Images/NorT.png)
