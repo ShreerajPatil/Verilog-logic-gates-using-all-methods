@@ -1,4 +1,4 @@
-**And Gate**
+**OR Gate**
 ![Schematic](Orsche.png)
 
 **Structural (Gate-Level) Modeling**
