@@ -1,4 +1,4 @@
-**Nand Gate**
+**NOR Gate**
 ![Schematic](Norsche.png)
 
 **Structural (Gate-Level) Modeling**
