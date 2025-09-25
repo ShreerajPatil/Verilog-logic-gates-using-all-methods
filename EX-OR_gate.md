@@ -1,5 +1,5 @@
 **EX-OR Gate**
-![Schematic](Exorsche.png)
+![Schematic](./Images/Exorsche.png)
 
 **Structural (Gate-Level) Modeling**
 
@@ -91,4 +91,4 @@ endmodule
 
 ```
 
-![Testbench](ExorT.png)
+![Testbench](./Images/ExorT.png)
