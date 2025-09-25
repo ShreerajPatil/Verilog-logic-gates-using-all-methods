@@ -1,4 +1,4 @@
-**Not Gate**
+**NOT Gate**
 ![Schematic](Notsche.png)
 **Structural (Gate-Level) Modeling**
 
