@@ -1,5 +1,5 @@
 **NOT Gate**
-![Schematic](Notsche.png)
+![Schematic](./Images/Notsche.png)
 **Structural (Gate-Level) Modeling**
 
 **Code** 
@@ -90,4 +90,4 @@ module Testbench1(
 endmodule
 ```
 
-![Testbench](NotgateG.png)
+![Testbench](./Images/NotgateG.png)
