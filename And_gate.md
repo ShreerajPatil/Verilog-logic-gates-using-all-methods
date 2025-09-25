@@ -1,4 +1,4 @@
-**And Gate**
+**AND Gate**
 ![Schematic](Andsche.png)
 
 **Structural (Gate-Level) Modeling**
