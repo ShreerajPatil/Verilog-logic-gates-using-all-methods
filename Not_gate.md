@@ -1,26 +1,30 @@
 Structural (Gate-Level) Modeling
 
-Code
+**Code** 
+```
 module Code(
 input wire in,
 output wire out
     );
     not gate(out,in);
 endmodule
+```
 
-Testbench
+**Testbench**
+```
 module Testbench1(
     );
     reg in;
     wire out;
     Code uut(in,out);
     initial 
-    begin
-
+    begin 
+    
     in=0;
     #10 
     in=1;
     #10 $finish;
     end
 endmodule
-![Testbench]NotgateG.png)
+```
+![Testbench]Notgate.png)
